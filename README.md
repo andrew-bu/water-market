@@ -1,5 +1,3 @@
-# Tier 1 Requirements
-
 ## Name
 
 ABM-RBB Water Market
@@ -51,11 +49,11 @@ MATLAB, water market
 
 Be sure to update the citation manually if you go this route and the citation changes.
 
-### INSTRUCTIONS
+## INSTRUCTIONS
 
 To test this package, copy all files to a folder, preserving inner directory structure, and run testScript.  This script returns farmList, an array of farms that have participated in the market, and transactionList, a list of transactions in the form `[buyerID sellerID saleSize buyerWTP sellerWTA]`.
 
-### BENCHMARKS
+## BENCHMARKS
 
 Verify that for all transactions in transactionList:
 
