@@ -2,22 +2,17 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: My First Fisher-Price Reusable Building Block
+title: ABM-RBB Water Market
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: Allen
-    family-names: Lee
-    email: allen.lee@asu.edu
-    affiliation: Arizona State University
-    orcid: 'https://orcid.org/0000-0002-6523-6079'
-  - given-names: Another
-    family-names: Collaborator
-    email: your.coauthor@mailinator.com
-    affiliation: Other Institution
-    orcid: 'https://orcid.org/0000-0001-2345-6789'
+  - given-names: Andrew
+    family-names: Bell
+    email: bellar@bu.edu
+    affiliation: Boston University
+    orcid: 'https://orcid.org/0000-0002-1164-312X'
 license: MIT
 version: 1.0.0
-date-released: '2022-07-07'
+date-released: '2015-07-07'
